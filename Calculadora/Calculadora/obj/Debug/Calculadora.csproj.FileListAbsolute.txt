@@ -1,0 +1,7 @@
+C:\programas e informatica\Linguagem c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\programas e informatica\Linguagem c#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\programas e informatica\Linguagem c#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\programas e informatica\Linguagem c#\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\programas e informatica\Linguagem c#\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\programas e informatica\Linguagem c#\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\programas e informatica\Linguagem c#\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
